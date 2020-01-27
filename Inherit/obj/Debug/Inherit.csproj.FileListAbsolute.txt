@@ -1,0 +1,6 @@
+E:\devika\C#\HandsOn\Inherit\obj\Debug\Inherit.csprojAssemblyReference.cache
+E:\devika\C#\HandsOn\Inherit\bin\Debug\Inherit.exe.config
+E:\devika\C#\HandsOn\Inherit\bin\Debug\Inherit.exe
+E:\devika\C#\HandsOn\Inherit\bin\Debug\Inherit.pdb
+E:\devika\C#\HandsOn\Inherit\obj\Debug\Inherit.exe
+E:\devika\C#\HandsOn\Inherit\obj\Debug\Inherit.pdb
